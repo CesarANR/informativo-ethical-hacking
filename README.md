@@ -1,4 +1,4 @@
-# informativo-etthical-hacking
+# informativo-ethical-hacking
 Site informativo sobre a profissão de Hacker Ético
 
 Este Site pretende compilar um breve resumo informativo sobre a profissão de Hacker Ético, no intuito de informarmar sem muito esforço e ser de fácil compartilhamento entre o público.
